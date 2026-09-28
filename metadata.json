@@ -1,0 +1,6 @@
+{
+  "name": "PAAA - Plumtree Annual Appreciation Awards",
+  "description": "Official voting, real-time results, anti-cheat tally management, and granular RBAC administrative dashboard for the Plumtree Annual Appreciation Awards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
